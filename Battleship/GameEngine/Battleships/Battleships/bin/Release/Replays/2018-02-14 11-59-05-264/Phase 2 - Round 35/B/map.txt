@@ -1,0 +1,48 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Game Version : 1.0.0
+Game Level : 1
+Round Number : 35
+Map Dimensions : 10 x 10
+Phase : 2
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+########## Player
+~~~~~~~~~~
+~~~~~~~~~~
+~~cs~~~~~~
+~~Cs~~~~~~
+~~CSr~~~B~
+~~c~r~~~b~
+~~C~r~~~b~
+~~~~~~~~b~
+~~~~~dD~~~
+~~~~~~~~~~
+########## Opponent
+~~!~~!~!~~
+!***!~!~!~
+~~~~~~~!~~
+~~!~~~!~!~
+~~~~~~~~~~
+!!~~~~!~!~
+~*~!~~~~~!
+~*!~~!!~~~
+~*!*****!~
+~*~~!!~~~~
+##########
+
+---------------------------
+Player Name: HMS Queen Louise
+Available Energy: 25
+Shots: 34
+Hit: 12
+Points: 210
+Arsenal: [SingleShot,SeekerMissile,DoubleShot,DiagonalCrossShot,CornerShot]
+Ships: [Submarine,Destroyer,Battle Ship,Carrier]
+Status: Alive
+Shield: (Status: Deactivated, Charges: 4), Center Point: No Shield
+---------------------------
+Opponent: py3Bot
+Points: 140
+Ships: [Destroyer,Cruiser]
+Status: Alive
+---------------------------

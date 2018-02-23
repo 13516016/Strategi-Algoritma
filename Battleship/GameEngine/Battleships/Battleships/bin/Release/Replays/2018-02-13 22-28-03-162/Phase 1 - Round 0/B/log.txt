@@ -1,0 +1,17 @@
+
+13-02-2018 22:28:03:385 - I: 	Executing process  B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-28-03-162/Phase 1 - Round 0/B"
+13-02-2018 22:28:03:385 - E: 	Failed to run calibration test System.InvalidOperationException: File name has not been set
+  at System.Diagnostics.Process.Start_common (System.Diagnostics.ProcessStartInfo startInfo, System.Diagnostics.Process process) <0x407b8640 + 0x0011b> in <filename unknown>:0 
+  at System.Diagnostics.Process.Start () <0x407b85c0 + 0x0004b> in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.Diagnostics.Process:Start ()
+  at BotRunner.Util.ProcessHandler.StartProcessCommon () <0x407b7ea0 + 0x0010b> in <filename unknown>:0 
+  at BotRunner.Util.ProcessHandler.RunProcess () <0x407b7dd0 + 0x00057> in <filename unknown>:0 
+  at TestHarness.TestHarnesses.Bot.Runners.DotNetRunner.RunCalibrationTest () <0x407b6e70 + 0x00153> in <filename unknown>:0 
+  at TestHarness.TestHarnesses.Bot.BotRunner.CalibrateBot () <0x407b6b40 + 0x00068> in <filename unknown>:0 
+13-02-2018 22:28:03:385 - I: 	Bot calibration complete and can run an additional 0ms due to environment startup
+13-02-2018 22:28:03:386 - D: 	Executing bot with following commands /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-28-03-162/Phase 1 - Round 0/B"
+13-02-2018 22:28:03:386 - I: 	Executing process /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-28-03-162/Phase 1 - Round 0/B"
+13-02-2018 22:28:03:387 - I: 	Bot has 4000ms to run before it will be forcefully killed
+13-02-2018 22:28:03:391 - I: 	Output from bot: 
+13-02-2018 22:28:03:391 - E: 	Output from bot: 
+13-02-2018 22:28:03:391 - I: 	Your bots total execution time was 00:00:00.0048279

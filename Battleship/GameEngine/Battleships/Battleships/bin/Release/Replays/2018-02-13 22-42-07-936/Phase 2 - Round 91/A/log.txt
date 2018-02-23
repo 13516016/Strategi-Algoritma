@@ -1,0 +1,49 @@
+
+13-02-2018 22:42:10:889 - D: 	Executing bot with following commands /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master/SampleBot.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-42-07-936/Phase 2 - Round 91/A"
+13-02-2018 22:42:10:889 - I: 	Executing process /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master/SampleBot.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-42-07-936/Phase 2 - Round 91/A"
+13-02-2018 22:42:10:890 - I: 	Bot has 4000ms to run before it will be forcefully killed
+13-02-2018 22:42:10:891 - I: 	Output from bot: cek
+13-02-2018 22:42:10:892 - I: 	Output from bot: Cek
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 0
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 2
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 0
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 4
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 0
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 6
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 0
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 8
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 1
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 1
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 1
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 9
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 2
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 2
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 4
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 4
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 5
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 3
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 5
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 9
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 7
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 5
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 7
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 9
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 8
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 2
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 9
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 7
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 11
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 5
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 11
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 9
+13-02-2018 22:42:10:892 - I: 	Output from bot: x: 13
+13-02-2018 22:42:10:892 - I: 	Output from bot: y: 9
+13-02-2018 22:42:10:892 - I: 	Output from bot: cek
+13-02-2018 22:42:10:892 - I: 	Output from bot: 8
+13-02-2018 22:42:10:892 - I: 	Output from bot: 2
+13-02-2018 22:42:10:892 - I: 	Output from bot: FOO
+13-02-2018 22:42:10:892 - I: 	Output from bot: 8
+13-02-2018 22:42:10:892 - I: 	Output from bot: 2
+13-02-2018 22:42:10:892 - E: 	Output from bot: 
+13-02-2018 22:42:10:892 - I: 	Output from bot: 
+13-02-2018 22:42:10:892 - I: 	Your bots total execution time was 00:00:00.0034722

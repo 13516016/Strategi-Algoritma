@@ -1,0 +1,17 @@
+
+14-02-2018 11:59:13:297 - I: 	Executing process  B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 11-59-13-069/Phase 1 - Round 0/B"
+14-02-2018 11:59:13:298 - E: 	Failed to run calibration test System.InvalidOperationException: File name has not been set
+  at System.Diagnostics.Process.Start_common (System.Diagnostics.ProcessStartInfo startInfo, System.Diagnostics.Process process) <0x401281e0 + 0x0011b> in <filename unknown>:0 
+  at System.Diagnostics.Process.Start () <0x40128160 + 0x0004b> in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.Diagnostics.Process:Start ()
+  at BotRunner.Util.ProcessHandler.StartProcessCommon () <0x40127a40 + 0x0010b> in <filename unknown>:0 
+  at BotRunner.Util.ProcessHandler.RunProcess () <0x40127960 + 0x00057> in <filename unknown>:0 
+  at TestHarness.TestHarnesses.Bot.Runners.DotNetRunner.RunCalibrationTest () <0x40131820 + 0x00153> in <filename unknown>:0 
+  at TestHarness.TestHarnesses.Bot.BotRunner.CalibrateBot () <0x401267b0 + 0x00068> in <filename unknown>:0 
+14-02-2018 11:59:13:298 - I: 	Bot calibration complete and can run an additional 0ms due to environment startup
+14-02-2018 11:59:13:298 - D: 	Executing bot with following commands /media/adylanrff/UBUNTU 17_1/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 11-59-13-069/Phase 1 - Round 0/B"
+14-02-2018 11:59:13:298 - I: 	Executing process /media/adylanrff/UBUNTU 17_1/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 11-59-13-069/Phase 1 - Round 0/B"
+14-02-2018 11:59:13:299 - I: 	Bot has 4000ms to run before it will be forcefully killed
+14-02-2018 11:59:13:301 - I: 	Output from bot: 
+14-02-2018 11:59:13:301 - E: 	Output from bot: 
+14-02-2018 11:59:13:301 - I: 	Your bots total execution time was 00:00:00.0023952

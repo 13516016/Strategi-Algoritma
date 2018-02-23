@@ -1,0 +1,5 @@
+Battleship 6 2 North
+Carrier 3 9 East
+Cruiser 8 5 North
+Submarine 7 13 East
+Destroyer 1 10 South

@@ -1,0 +1,48 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Game Version : 1.0.0
+Game Level : 1
+Round Number : 42
+Map Dimensions : 10 x 10
+Phase : 2
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+########## Player
+~~~~~~~~~~
+~SSS~~~~~~
+~~~~~~~~~~
+~~~~~~~~~~
+~~~~~~~~~~
+~~~~r~~d~~
+~b~~r~~d~~
+~b~~r~~~~~
+~b~ccccc~~
+~b~~~~~~~~
+########## Opponent
+~!~~~!~~!!
+~!~~!~!!!~
+~!~~*~!!!~
+!~*~~!~~!!
+~!~~*~~~!~
+~!~!~~!!~~
+~~~!~~~!~!
+~~~~~~~~*~
+!!*~~*~~~!
+!~!!~!!!~~
+##########
+
+---------------------------
+Player Name: py3Bot
+Available Energy: 85
+Shots: 41
+Hit: 6
+Points: 60
+Arsenal: [SingleShot,SeekerMissile]
+Ships: [Submarine]
+Status: Alive
+Shield: (Status: Deactivated, Charges: 5), Center Point: No Shield
+---------------------------
+Opponent: HMS Queen Louise
+Points: 260
+Ships: [Submarine,Destroyer,Battle Ship,Carrier,Cruiser]
+Status: Alive
+---------------------------

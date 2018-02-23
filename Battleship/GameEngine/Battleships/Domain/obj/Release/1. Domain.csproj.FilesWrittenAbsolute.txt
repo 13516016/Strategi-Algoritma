@@ -1,0 +1,7 @@
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Domain/obj/Release/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Domain/bin/Release/Domain.dll.config
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Domain/bin/Release/Domain.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Domain/bin/Release/Domain.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Domain/obj/Release/Domain.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Domain/obj/Release/Domain.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Domain/bin/Release/Newtonsoft.Json.dll

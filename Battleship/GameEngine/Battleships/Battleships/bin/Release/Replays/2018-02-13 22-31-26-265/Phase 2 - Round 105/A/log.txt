@@ -1,0 +1,21 @@
+
+13-02-2018 22:31:29:616 - D: 	Executing bot with following commands /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master/SampleBot.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-31-26-265/Phase 2 - Round 105/A"
+13-02-2018 22:31:29:616 - I: 	Executing process /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master/SampleBot.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-31-26-265/Phase 2 - Round 105/A"
+13-02-2018 22:31:29:617 - I: 	Bot has 4000ms to run before it will be forcefully killed
+13-02-2018 22:31:29:619 - I: 	Output from bot: cek
+13-02-2018 22:31:29:620 - I: 	Output from bot: Cek
+13-02-2018 22:31:29:620 - I: 	Output from bot: x: 2
+13-02-2018 22:31:29:620 - I: 	Output from bot: y: 2
+13-02-2018 22:31:29:620 - I: 	Output from bot: x: 5
+13-02-2018 22:31:29:620 - I: 	Output from bot: y: 1
+13-02-2018 22:31:29:620 - I: 	Output from bot: x: 8
+13-02-2018 22:31:29:620 - I: 	Output from bot: y: 0
+13-02-2018 22:31:29:620 - I: 	Output from bot: cek
+13-02-2018 22:31:29:620 - I: 	Output from bot: 2
+13-02-2018 22:31:29:620 - I: 	Output from bot: 2
+13-02-2018 22:31:29:620 - I: 	Output from bot: FOO
+13-02-2018 22:31:29:620 - I: 	Output from bot: 2
+13-02-2018 22:31:29:620 - I: 	Output from bot: 2
+13-02-2018 22:31:29:621 - I: 	Output from bot: 
+13-02-2018 22:31:29:621 - I: 	Your bots total execution time was 00:00:00.0044221
+13-02-2018 22:31:29:621 - E: 	Output from bot: 

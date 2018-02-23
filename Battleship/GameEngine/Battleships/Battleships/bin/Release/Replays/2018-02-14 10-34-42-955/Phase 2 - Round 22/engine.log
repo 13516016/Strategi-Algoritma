@@ -1,0 +1,7 @@
+
+14-02-2018 10:34:48:118 - I: 	Added Command FireSingleShotCommand for Player py3Bot
+14-02-2018 10:34:48:134 - I: 	Added Command FireSingleShotCommand for Player HMS Queen Louise
+14-02-2018 10:34:48:134 - D: 	Beginning round processing
+14-02-2018 10:34:48:134 - D: 	Processing Player Commands
+14-02-2018 10:34:48:134 - D: 	Killing off players who have no ships left
+14-02-2018 10:34:48:134 - D: 	Round processing complete

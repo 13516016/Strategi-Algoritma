@@ -1,0 +1,22 @@
+
+14-02-2018 11:59:05:892 - D: 	Executing bot with following commands /media/adylanrff/UBUNTU 17_1/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 11-59-05-264/Phase 2 - Round 7/B"
+14-02-2018 11:59:05:892 - I: 	Executing process /media/adylanrff/UBUNTU 17_1/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 11-59-05-264/Phase 2 - Round 7/B"
+14-02-2018 11:59:05:893 - I: 	Bot has 4000ms to run before it will be forcefully killed
+14-02-2018 11:59:05:895 - I: 	Output from bot: MAGNUM!
+14-02-2018 11:59:05:895 - I: 	Output from bot: sz: 10 scanning
+14-02-2018 11:59:05:895 - I: 	Output from bot: MinLength 2
+14-02-2018 11:59:05:895 - I: 	Output from bot: (0,0,10) (15,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: (7,-9,10) (-128,0,10) (7,-9,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: (8,-9,4) (-128,0,10) (-128,-9,0) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,8) (-1,0,7) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: (-1,0,9) (16,0,10) (-1,0,9) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,9) (-128,0,0) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: (-128,0,0) (-1,0,10) (0,0,9) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,9) (-1,0,9) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: (0,0,8) (-1,0,10) (0,0,8) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (-128,0,0) (-1,0,6) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) (-1,0,10) (0,0,10) 
+14-02-2018 11:59:05:895 - I: 	Output from bot: 0
+14-02-2018 11:59:05:895 - I: 	Output from bot: Found solution 16:1,3
+14-02-2018 11:59:05:895 - E: 	Output from bot: 
+14-02-2018 11:59:05:895 - I: 	Output from bot: 
+14-02-2018 11:59:05:895 - I: 	Your bots total execution time was 00:00:00.0029438

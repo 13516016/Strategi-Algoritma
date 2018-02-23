@@ -1,0 +1,19 @@
+
+22-02-2018 12:37:25:360 - D: 	Executing bot with following commands /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016/bin/ql.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-22 12-37-24-554/Phase 2 - Round 29/A"
+22-02-2018 12:37:25:360 - I: 	Executing process /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016/bin/ql.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-22 12-37-24-554/Phase 2 - Round 29/A"
+22-02-2018 12:37:25:361 - I: 	Bot has 4000ms to run before it will be forcefully killed
+22-02-2018 12:37:25:366 - I: 	Output from bot: MAGNUM!
+22-02-2018 12:37:25:366 - I: 	Output from bot: sz: 7 scanning
+22-02-2018 12:37:25:366 - I: 	Output from bot: MinLength 3
+22-02-2018 12:37:25:366 - I: 	Output from bot: (-128,0,0) (-1,0,3) (0,0,7) (-1,0,3) (-128,0,0) (-128,0,1) (-128,0,0) 
+22-02-2018 12:37:25:366 - I: 	Output from bot: (-128,0,2) (-128,0,0) (-1,0,7) (-128,0,0) (-128,0,0) (-128,0,0) (-128,0,2) 
+22-02-2018 12:37:25:366 - I: 	Output from bot: (-128,0,2) (-128,-18,0) (8,-18,7) (15,-27,5) (-128,-18,5) (15,-27,5) (0,0,5) 
+22-02-2018 12:37:25:366 - I: 	Output from bot: (-128,0,0) (-128,0,5) (-128,0,7) (-128,-9,5) (-128,0,5) (-128,-9,5) (-128,0,0) 
+22-02-2018 12:37:25:366 - I: 	Output from bot: (-128,0,0) (7,-18,5) (8,-18,7) (7,-18,5) (16,-18,5) (7,-18,5) (-128,0,0) 
+22-02-2018 12:37:25:366 - I: 	Output from bot: (-128,-11,2) (-128,-11,0) (7,-11,7) (-128,0,0) (-128,-9,0) (8,-9,5) (-128,0,2) 
+22-02-2018 12:37:25:366 - E: 	Output from bot: 
+22-02-2018 12:37:25:366 - I: 	Output from bot: (-128,0,3) (-128,0,3) (-128,0,7) (-128,0,0) (-128,0,2) (-128,0,5) (-128,0,0) 
+22-02-2018 12:37:25:366 - I: 	Output from bot: 0
+22-02-2018 12:37:25:366 - I: 	Output from bot: Found solution 0:6,2
+22-02-2018 12:37:25:366 - I: 	Output from bot: 
+22-02-2018 12:37:25:366 - I: 	Your bots total execution time was 00:00:00.0064020

@@ -1,0 +1,42 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Game Version : 1.0.0
+Game Level : 1
+Round Number : 26
+Map Dimensions : 7 x 7
+Phase : 2
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+####### Player
+C~~~~~~
+c~~~~~b
+c~~~~~b
+C~~~~~b
+C~~~~~b
+rrr~dd~
+~SSS~~~
+####### Opponent
+***!**!
+~!~!!~~
+~~~~~~!
+!*****!
+~!~~*~~
+~!~!~~~
+!~~~!~!
+#######
+
+---------------------------
+Player Name: HMS Queen Louise
+Available Energy: 4
+Shots: 25
+Hit: 11
+Points: 200
+Arsenal: [SingleShot,SeekerMissile,CornerShot]
+Ships: [Submarine,Carrier]
+Status: Alive
+Shield: (Status: Deactivated, Charges: 3), Center Point: No Shield
+---------------------------
+Opponent: HMS Queen Louise
+Points: 200
+Ships: [Battle Ship,Cruiser]
+Status: Alive
+---------------------------

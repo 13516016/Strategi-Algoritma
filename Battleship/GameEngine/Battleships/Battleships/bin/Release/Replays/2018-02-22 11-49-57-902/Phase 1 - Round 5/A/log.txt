@@ -1,0 +1,8 @@
+
+22-02-2018 11:49:58:618 - I: 	The first round has failed due to a bot's ships not all being placed
+22-02-2018 11:49:58:629 - D: 	Executing bot with following commands python3 "bot.py" A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-22 11-49-57-902/Phase 1 - Round 5/A"
+22-02-2018 11:49:58:629 - I: 	Executing process python3 "bot.py" A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-22 11-49-57-902/Phase 1 - Round 5/A"
+22-02-2018 11:49:58:630 - I: 	Bot has 4000ms to run before it will be forcefully killed
+22-02-2018 11:49:58:664 - I: 	Output from bot: 
+22-02-2018 11:49:58:664 - E: 	Output from bot: 
+22-02-2018 11:49:58:664 - I: 	Your bots total execution time was 00:00:00.0346916

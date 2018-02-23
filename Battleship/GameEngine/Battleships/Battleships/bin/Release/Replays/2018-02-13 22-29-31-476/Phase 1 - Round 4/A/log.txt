@@ -1,0 +1,10 @@
+
+13-02-2018 22:29:31:782 - I: 	Player Command DoNothingCommand failed because There was a problem during the placement of player's C++ Sample Bot ships (DoNothing), the round will be played over
+13-02-2018 22:29:31:782 - I: 	The first round has failed due to a bot's ships not all being placed
+13-02-2018 22:29:31:799 - D: 	Executing bot with following commands /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master/SampleBot.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-29-31-476/Phase 1 - Round 4/A"
+13-02-2018 22:29:31:799 - I: 	Executing process /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master/SampleBot.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-29-31-476/Phase 1 - Round 4/A"
+13-02-2018 22:29:31:799 - I: 	Bot has 4000ms to run before it will be forcefully killed
+13-02-2018 22:29:31:803 - E: 	Output from bot: Cannot open assembly '/media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master/SampleBot.exe': File does not contain a valid CIL image.
+13-02-2018 22:29:31:804 - I: 	Output from bot: 
+13-02-2018 22:29:31:804 - E: 	Output from bot: 
+13-02-2018 22:29:31:804 - I: 	Your bots total execution time was 00:00:00.0057033

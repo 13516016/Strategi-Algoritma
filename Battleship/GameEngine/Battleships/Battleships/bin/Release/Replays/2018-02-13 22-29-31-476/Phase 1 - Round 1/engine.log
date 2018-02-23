@@ -1,0 +1,7 @@
+
+13-02-2018 22:29:31:717 - I: 	Added Command DoNothingCommand for Player C++ Sample Bot
+13-02-2018 22:29:31:723 - I: 	Added Command PlaceShipCommand for Player HMS Queen Louise
+13-02-2018 22:29:31:723 - D: 	Beginning round processing
+13-02-2018 22:29:31:723 - D: 	Processing Player Commands
+13-02-2018 22:29:31:723 - E: 	Failed to process command DoNothingCommand for player C++ Sample BotGameEngine.Exceptions.InvalidCommandException: There was a problem during the placement of player's C++ Sample Bot ships (DoNothing), the round will be played over
+  at GameEngine.Engine.GameRoundProcessor.ProcessPlayerCommands () <0x41b501f0 + 0x0088f> in <filename unknown>:0 

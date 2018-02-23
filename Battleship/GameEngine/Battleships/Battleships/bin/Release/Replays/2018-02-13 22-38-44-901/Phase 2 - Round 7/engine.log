@@ -1,0 +1,7 @@
+
+13-02-2018 22:38:45:419 - I: 	Added Command FireSingleShotCommand for Player C++ Sample Bot
+13-02-2018 22:38:45:429 - I: 	Added Command FireSingleShotCommand for Player HMS Queen Louise
+13-02-2018 22:38:45:429 - D: 	Beginning round processing
+13-02-2018 22:38:45:429 - D: 	Processing Player Commands
+13-02-2018 22:38:45:430 - D: 	Killing off players who have no ships left
+13-02-2018 22:38:45:430 - D: 	Round processing complete

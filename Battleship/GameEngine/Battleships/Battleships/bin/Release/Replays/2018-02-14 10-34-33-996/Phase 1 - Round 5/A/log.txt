@@ -1,0 +1,10 @@
+
+14-02-2018 10:34:35:632 - I: 	Player Command PlaceShipCommand failed because There was a problem during the placement of player's py3Bot ships, the round will be played over
+14-02-2018 10:34:35:633 - I: 	The first round has failed due to a bot's ships not all being placed
+14-02-2018 10:34:35:665 - I: 	Bot has failed to place ships in the last 5 rounds and will be killed off
+14-02-2018 10:34:35:667 - D: 	Executing bot with following commands python3 "bot.py" A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 10-34-33-996/Phase 1 - Round 5/A"
+14-02-2018 10:34:35:667 - I: 	Executing process python3 "bot.py" A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 10-34-33-996/Phase 1 - Round 5/A"
+14-02-2018 10:34:35:669 - I: 	Bot has 4000ms to run before it will be forcefully killed
+14-02-2018 10:34:35:796 - I: 	Output from bot: 
+14-02-2018 10:34:35:796 - E: 	Output from bot: 
+14-02-2018 10:34:35:796 - I: 	Your bots total execution time was 00:00:00.1287530

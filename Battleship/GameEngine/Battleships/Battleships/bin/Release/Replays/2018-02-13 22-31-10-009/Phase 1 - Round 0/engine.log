@@ -1,0 +1,12 @@
+
+13-02-2018 22:31:10:067 - I: 	Loaded bot /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master
+13-02-2018 22:31:10:073 - I: 	Loaded bot /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016
+13-02-2018 22:31:10:073 - I: 	Registered player C++ Sample Bot
+13-02-2018 22:31:10:073 - I: 	Registered player HMS Queen Louise
+13-02-2018 22:31:10:086 - I: 		OK!
+13-02-2018 22:31:10:218 - I: 	Added Command PlaceShipCommand for Player C++ Sample Bot
+13-02-2018 22:31:10:228 - I: 	Added Command PlaceShipCommand for Player HMS Queen Louise
+13-02-2018 22:31:10:229 - D: 	Beginning round processing
+13-02-2018 22:31:10:231 - D: 	Processing Player Commands
+13-02-2018 22:31:10:237 - D: 	Killing off players who have no ships left
+13-02-2018 22:31:10:237 - D: 	Round processing complete

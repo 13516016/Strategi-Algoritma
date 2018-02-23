@@ -1,0 +1,56 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Game Version : 1.0.0
+Game Level : 1
+Round Number : 70
+Map Dimensions : 14 x 14
+Phase : 2
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+############## Player
+~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+~~~~~~R~~~~~~~
+~~~~~~R~~s~~~~
+~~~~~~R~~s~~~~
+~~~~~~~~~s~~~~
+~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+~~~~~~~~~~~~~d
+~~~~~~~~~~~~~d
+~~~~~~~~~~~~~~
+~~~~~bbbb~~~~~
+~~~~~~~~~~~~~~
+~~~~ccccc~~~~~
+############## Opponent
+~~~!~*~~~!~!~~
+!~~~~*~~!~!~!~
+~!~~~!~!~!~~*~
+~~~!!~!~!~!**!
+~~!~~!~!~~!**!
+~~~~~~!~~~!*!~
+~~~!~~~!~~~!~~
+~~~~!~!~!~~~!~
+~!~!~!~!~~~!~~
+!~!~~~!~!~!~~~
+~~~!~!~~~!~!~!
+!~!~~~!~~~!~~*
+~~~!~~~!~~~!!*
+~~!~~~~~!~!~~*
+##############
+
+---------------------------
+Player Name: HMS Queen Louise
+Available Energy: 23
+Shots: 69
+Hit: 11
+Points: 200
+Arsenal: [SingleShot,CrossShot]
+Ships: [Cruiser]
+Status: Alive
+Shield: (Status: Deactivated, Charges: 9), Center Point: No Shield
+---------------------------
+Opponent: HMS Queen Louise
+Points: 260
+Ships: [Battle Ship,Carrier]
+Status: Alive
+---------------------------

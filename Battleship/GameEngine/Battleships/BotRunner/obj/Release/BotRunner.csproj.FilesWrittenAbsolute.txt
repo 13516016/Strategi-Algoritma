@@ -1,0 +1,14 @@
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/obj/Release/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/BotRunner.dll.config
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/BotRunner.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/BotRunner.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/obj/Release/BotRunner.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/obj/Release/BotRunner.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/Newtonsoft.Json.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/Domain.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/Domain.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/GameEngine.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/GameEngine.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/Tests.Domain.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/Tests.Domain.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/BotRunner/bin/Release/nunit.framework.dll

@@ -1,0 +1,7 @@
+
+22-02-2018 11:50:39:442 - D: 	Executing bot with following commands python3 "bot.py" A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-22 11-50-37-419/Phase 2 - Round 31/A"
+22-02-2018 11:50:39:442 - I: 	Executing process python3 "bot.py" A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-22 11-50-37-419/Phase 2 - Round 31/A"
+22-02-2018 11:50:39:443 - I: 	Bot has 4000ms to run before it will be forcefully killed
+22-02-2018 11:50:39:486 - I: 	Output from bot: 
+22-02-2018 11:50:39:486 - I: 	Your bots total execution time was 00:00:00.0439576
+22-02-2018 11:50:39:486 - E: 	Output from bot: 

@@ -1,0 +1,7 @@
+
+22-02-2018 11:49:58:562 - I: 	Added Command PlaceShipCommand for Player py3Bot
+22-02-2018 11:49:58:566 - I: 	Added Command DoNothingCommand for Player HMS Queen Louise
+22-02-2018 11:49:58:566 - D: 	Beginning round processing
+22-02-2018 11:49:58:566 - D: 	Processing Player Commands
+22-02-2018 11:49:58:566 - E: 	Failed to process command DoNothingCommand for player HMS Queen LouiseGameEngine.Exceptions.InvalidCommandException: There was a problem during the placement of player's HMS Queen Louise ships (DoNothing), the round will be played over
+  at GameEngine.Engine.GameRoundProcessor.ProcessPlayerCommands () <0x404a37d0 + 0x00887> in <filename unknown>:0 

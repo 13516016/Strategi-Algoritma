@@ -1,0 +1,12 @@
+
+13-02-2018 22:29:31:531 - I: 	Loaded bot /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master
+13-02-2018 22:29:31:537 - I: 	Loaded bot /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016
+13-02-2018 22:29:31:537 - I: 	Registered player C++ Sample Bot
+13-02-2018 22:29:31:537 - I: 	Registered player HMS Queen Louise
+13-02-2018 22:29:31:549 - I: 		OK!
+13-02-2018 22:29:31:674 - I: 	Added Command DoNothingCommand for Player C++ Sample Bot
+13-02-2018 22:29:31:686 - I: 	Added Command PlaceShipCommand for Player HMS Queen Louise
+13-02-2018 22:29:31:687 - D: 	Beginning round processing
+13-02-2018 22:29:31:689 - D: 	Processing Player Commands
+13-02-2018 22:29:31:691 - E: 	Failed to process command DoNothingCommand for player C++ Sample BotGameEngine.Exceptions.InvalidCommandException: There was a problem during the placement of player's C++ Sample Bot ships (DoNothing), the round will be played over
+  at GameEngine.Engine.GameRoundProcessor.ProcessPlayerCommands () <0x41b501f0 + 0x0088f> in <filename unknown>:0 

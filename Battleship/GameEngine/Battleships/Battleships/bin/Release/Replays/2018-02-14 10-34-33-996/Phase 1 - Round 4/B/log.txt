@@ -1,0 +1,8 @@
+
+14-02-2018 10:34:35:458 - I: 	The first round has failed due to a bot's ships not all being placed
+14-02-2018 10:34:35:622 - D: 	Executing bot with following commands /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 10-34-33-996/Phase 1 - Round 4/B"
+14-02-2018 10:34:35:622 - I: 	Executing process /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 10-34-33-996/Phase 1 - Round 4/B"
+14-02-2018 10:34:35:624 - I: 	Bot has 4000ms to run before it will be forcefully killed
+14-02-2018 10:34:35:630 - I: 	Output from bot: 
+14-02-2018 10:34:35:630 - E: 	Output from bot: 
+14-02-2018 10:34:35:630 - I: 	Your bots total execution time was 00:00:00.0080244

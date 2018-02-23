@@ -1,0 +1,12 @@
+
+22-02-2018 12:28:45:760 - I: 	Loaded bot /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/2017-Battleships/Sample Bots/Python3
+22-02-2018 12:28:45:766 - I: 	Loaded bot /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016
+22-02-2018 12:28:45:766 - I: 	Registered player py3Bot
+22-02-2018 12:28:45:766 - I: 	Registered player HMS Queen Louise
+22-02-2018 12:28:45:779 - I: 		OK!
+22-02-2018 12:28:45:947 - I: 	Added Command PlaceShipCommand for Player py3Bot
+22-02-2018 12:28:45:954 - I: 	Added Command PlaceShipCommand for Player HMS Queen Louise
+22-02-2018 12:28:45:954 - D: 	Beginning round processing
+22-02-2018 12:28:45:956 - D: 	Processing Player Commands
+22-02-2018 12:28:45:961 - D: 	Killing off players who have no ships left
+22-02-2018 12:28:45:961 - D: 	Round processing complete

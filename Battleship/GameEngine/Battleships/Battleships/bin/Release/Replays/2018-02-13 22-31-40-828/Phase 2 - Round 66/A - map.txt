@@ -1,0 +1,56 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Game Version : 1.0.0
+Game Level : 1
+Round Number : 66
+Map Dimensions : 14 x 14
+Phase : 2
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+############## Player
+~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+~~S~~~~~~~~~B~
+~rS~~~~~~~~~b~
+~rS~~~~~~~~~b~
+~r~~~~~~~~~~b~
+~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+~~~~D~~~~~~~~~
+~~~~dccccC~~~~
+~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+############## Opponent
+~!~!~!~~~!~!~!
+~~!~!~!~~~~~!~
+~!~!*~~~~!~!~~
+!~~~*~!~~~~~!~
+~!~!*!~!~!~!~!
+~~!~**~~!~!~!~
+~!*~!*!!~~~~~~
+!~*~!*~~~~!~!~
+~~*!~!~!~!~!~~
+~!*!!~~~!~~~!~
+~!*!~!~!~!~~~~
+~~!~!~!~!~~~~~
+~!~!~~~~~~~~~~
+!~!~!~~~~~!~!~
+##############
+
+---------------------------
+Player Name: C++ Sample Bot
+Available Energy: 27
+Shots: 65
+Hit: 12
+Points: 210
+Arsenal: [SingleShot,SeekerMissile,DoubleShot,DiagonalCrossShot,CornerShot]
+Ships: [Submarine,Destroyer,Battle Ship,Carrier]
+Status: Alive
+Shield: (Status: Deactivated, Charges: 9), Center Point: No Shield
+---------------------------
+Opponent: HMS Queen Louise
+Points: 140
+Ships: [Submarine,Destroyer]
+Status: Alive
+---------------------------

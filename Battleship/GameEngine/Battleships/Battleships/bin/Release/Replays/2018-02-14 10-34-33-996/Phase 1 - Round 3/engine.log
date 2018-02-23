@@ -1,0 +1,15 @@
+
+14-02-2018 10:34:35:444 - I: 	Added Command PlaceShipCommand for Player py3Bot
+14-02-2018 10:34:35:457 - I: 	Added Command PlaceShipCommand for Player HMS Queen Louise
+14-02-2018 10:34:35:457 - D: 	Beginning round processing
+14-02-2018 10:34:35:457 - D: 	Processing Player Commands
+14-02-2018 10:34:35:457 - E: 	Failed to process command PlaceShipCommand for player py3BotGameEngine.Exceptions.InvalidCommandException: There was a problem during the placement of player's py3Bot ships, the round will be played over ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (System.Collections.Generic.TKey key) <0x41e6bdb0 + 0x00063> in <filename unknown>:0 
+  at Domain.Maps.PlayerMap.GetCellAtPoint (Point point) <0x418025a0 + 0x00027> in <filename unknown>:0 
+  at Domain.Ships.Ship.CanPlace (Point point, Domain.Maps.Direction direction, Domain.Maps.PlayerMap playerMap) <0x418191f0 + 0x00037> in <filename unknown>:0 
+  at Domain.Maps.PlayerMap.CanPlace (Domain.Ships.Ship ship, Point point, Domain.Maps.Direction direction) <0x41819020 + 0x000bf> in <filename unknown>:0 
+  at Domain.Games.GameMap.CanPlace (PlayerType playerType, ShipType shipType, Point coordinate, Domain.Maps.Direction direction) <0x41818b30 + 0x0017f> in <filename unknown>:0 
+  at GameEngine.Commands.PlayerCommands.PlaceShipCommand.PerformCommand (Domain.Games.GameMap gameMap, Domain.Players.BattleshipPlayer player) <0x41817a40 + 0x0017b> in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at GameEngine.Commands.PlayerCommands.PlaceShipCommand.PerformCommand (Domain.Games.GameMap gameMap, Domain.Players.BattleshipPlayer player) <0x41817a40 + 0x0020f> in <filename unknown>:0 
+  at GameEngine.Engine.GameRoundProcessor.ProcessPlayerCommands () <0x41814ad0 + 0x008fb> in <filename unknown>:0 

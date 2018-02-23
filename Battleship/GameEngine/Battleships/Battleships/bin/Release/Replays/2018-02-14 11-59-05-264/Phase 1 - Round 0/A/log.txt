@@ -1,0 +1,9 @@
+
+14-02-2018 11:59:05:424 - I: 	Executing process python3 "" A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 11-59-05-264/Phase 1 - Round 0/A"
+14-02-2018 11:59:05:453 - I: 	Bot calibration complete and can run an additional 30ms due to environment startup
+14-02-2018 11:59:05:455 - D: 	Executing bot with following commands python3 "bot.py" A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 11-59-05-264/Phase 1 - Round 0/A"
+14-02-2018 11:59:05:455 - I: 	Executing process python3 "bot.py" A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-14 11-59-05-264/Phase 1 - Round 0/A"
+14-02-2018 11:59:05:456 - I: 	Bot has 4000ms to run before it will be forcefully killed
+14-02-2018 11:59:05:486 - I: 	Output from bot: 
+14-02-2018 11:59:05:486 - I: 	Your bots total execution time was 00:00:00.0309339
+14-02-2018 11:59:05:486 - E: 	Output from bot: 

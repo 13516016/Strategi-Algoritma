@@ -1,0 +1,10 @@
+
+22-02-2018 11:49:58:514 - I: 	Player Command DoNothingCommand failed because There was a problem during the placement of player's HMS Queen Louise ships (DoNothing), the round will be played over
+22-02-2018 11:49:58:514 - I: 	The first round has failed due to a bot's ships not all being placed
+22-02-2018 11:49:58:563 - D: 	Executing bot with following commands /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-22 11-49-57-902/Phase 1 - Round 3/B"
+22-02-2018 11:49:58:563 - I: 	Executing process /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016/bin/ql.exe B "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-22 11-49-57-902/Phase 1 - Round 3/B"
+22-02-2018 11:49:58:564 - I: 	Bot has 4000ms to run before it will be forcefully killed
+22-02-2018 11:49:58:565 - E: 	Output from bot: run-detectors: unable to find an interpreter for /home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/StrAlgo1-16016/bin/ql.exe
+22-02-2018 11:49:58:565 - I: 	Output from bot: 
+22-02-2018 11:49:58:565 - E: 	Output from bot: 
+22-02-2018 11:49:58:565 - I: 	Your bots total execution time was 00:00:00.0021484

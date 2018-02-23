@@ -1,0 +1,16 @@
+
+13-02-2018 22:31:29:676 - D: 	Executing bot with following commands /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master/SampleBot.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-31-26-265/Phase 2 - Round 107/A"
+13-02-2018 22:31:29:676 - I: 	Executing process /media/adylanrff/82CE-2B04/Battleship-Bot-master/Battleship-Bot-master/SampleBot.exe A "/home/adylanrff/Documents/Programming/Kuliah/Semester 4/Strategi Algoritma/Battleship/GameEngine/Battleships/Battleships/bin/Release/Replays/2018-02-13 22-31-26-265/Phase 2 - Round 107/A"
+13-02-2018 22:31:29:676 - I: 	Bot has 4000ms to run before it will be forcefully killed
+13-02-2018 22:31:29:677 - I: 	Output from bot: cek
+13-02-2018 22:31:29:678 - I: 	Output from bot: Cek
+13-02-2018 22:31:29:679 - I: 	Output from bot: x: 5
+13-02-2018 22:31:29:679 - I: 	Output from bot: y: 1
+13-02-2018 22:31:29:679 - I: 	Output from bot: x: 8
+13-02-2018 22:31:29:679 - I: 	Output from bot: y: 0
+13-02-2018 22:31:29:679 - I: 	Output from bot: cek
+13-02-2018 22:31:29:679 - I: 	Output from bot: 3
+13-02-2018 22:31:29:679 - I: 	Output from bot: 2
+13-02-2018 22:31:29:679 - E: 	Output from bot: 
+13-02-2018 22:31:29:679 - I: 	Output from bot: 
+13-02-2018 22:31:29:679 - I: 	Your bots total execution time was 00:00:00.0031215

@@ -1,0 +1,12 @@
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/bin/Release/Tests.Domain.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/bin/Release/Tests.Domain.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/obj/Release/Tests.Domain.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/obj/Release/Tests.Domain.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/bin/Release/Newtonsoft.Json.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/bin/Release/nunit.framework.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/bin/Release/Rhino.Mocks.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/bin/Release/Domain.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/bin/Release/Domain.dll.mdb
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/bin/Release/GameEngine.dll
+/home/eelmaster/code/Battleships/GameEngine/Battleships/Tests.Domain/bin/Release/GameEngine.dll.mdb
